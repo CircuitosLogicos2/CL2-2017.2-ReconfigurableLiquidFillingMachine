@@ -1,0 +1,7 @@
+module ProjetoFinal ( output reg MotorBomba,
+							input clock, sensor01, sensor02 )
+							
+reg[1:0] estado_atual;
+parameter A = 0, B= 1;
+
+endmodule

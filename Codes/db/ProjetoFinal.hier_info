@@ -1,0 +1,43 @@
+|ProjetoFinal
+MotorBomba <= estado_atual.A_259.DB_MAX_OUTPUT_PORT_TYPE
+MotorMistura <= MotorMistura~reg0.DB_MAX_OUTPUT_PORT_TYPE
+clock => MotorMistura~reg0.CLK
+clock => contadorTeste[0].CLK
+clock => contadorTeste[1].CLK
+clock => contadorTeste[2].CLK
+clock => contadorTeste[3].CLK
+clock => contadorTeste[4].CLK
+clock => contadorTeste[5].CLK
+clock => contadorTeste[6].CLK
+clock => contadorTeste[7].CLK
+clock => contadorTeste[8].CLK
+clock => contadorTeste[9].CLK
+clock => contadorTeste[10].CLK
+clock => contadorTeste[11].CLK
+clock => contadorTeste[12].CLK
+clock => contadorTeste[13].CLK
+clock => contadorTeste[14].CLK
+clock => contadorTeste[15].CLK
+clock => contadorTeste[16].CLK
+clock => contadorTeste[17].CLK
+clock => contadorTeste[18].CLK
+clock => contadorTeste[19].CLK
+clock => contadorTeste[20].CLK
+clock => contadorTeste[21].CLK
+clock => contadorTeste[22].CLK
+clock => contadorTeste[23].CLK
+clock => contadorTeste[24].CLK
+clock => contadorTeste[25].CLK
+clock => contadorTeste[26].CLK
+clock => contadorTeste[27].CLK
+clock => contadorTeste[28].CLK
+clock => contadorTeste[29].CLK
+clock => contadorTeste[30].CLK
+clock => contadorTeste[31].CLK
+clock => contadorTeste[32].CLK
+clock => Sensor02.CLK
+clock => Sensor01.CLK
+OutArd01 => Sensor01.DATAIN
+OutArd02 => Sensor02.DATAIN
+
+
